@@ -1,4 +1,4 @@
-# Laravel 9 作為列舉的標準集合
+# Laravel 10 作為列舉的標準集合
 
 引入 prinsfrank 的 standards 套件來擴增作為列舉的標準集合，標準為國家、屬地、具特殊科學價值地點建立國際認可的代碼，列舉則讓開發者自定義型別，限制有限數值的可能值。
 
@@ -22,5 +22,5 @@ $ php artisan key:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/xhVCpSz.png)
+![](https://i.imgur.com/DJ5j4tH.png)
 > 各國皆有兩碼、三碼英文以及三位數字碼之編號
